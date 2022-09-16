@@ -1,6 +1,6 @@
-<svg width="156" height="156" viewBox="0 0 156 156" fill="none"
+<svg width="157" height="156" viewBox="0 0 157 156" fill="none"
     xmlns="http://www.w3.org/2000/svg">
-    <path d="M17.1416 155.5C6.93162 139.822 0.999084 121.104 0.999084 101C0.999084 45.7715 45.7706 1 100.999 1C121.144 1 139.898 6.95694 155.596 17.2055" stroke="url(#paint0_linear_4479_22946)"/>
+    <path d="M17.1416 155.5C6.93162 139.822 0.999084 121.104 0.999084 101C0.999084 45.7715 45.7706 1 100.999 1C121.144 1 139.898 6.95694 155.596 17.2055" stroke="url(#paint0_linear_4479_22946)" stroke-linecap="round"/>
     <defs>
         <linearGradient id="paint0_linear_4479_22946" x1="78.2974" y1="155.5" x2="152" y2="18" gradientUnits="userSpaceOnUse">
             <stop stop-color="#4D23C7"/>
