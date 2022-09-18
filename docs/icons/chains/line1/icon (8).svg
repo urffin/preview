@@ -1,28 +1,25 @@
-<svg width="160" height="72" viewBox="0 0 160 72" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g opacity="0.8" filter="url(#filter0_b_4612_2888)">
-<rect width="160" height="72.0013" rx="6" fill="url(#paint0_linear_4612_2888)"/>
-<rect x="0.25" y="0.25" width="159.5" height="71.5013" rx="5.75" stroke="url(#paint1_linear_4612_2888)" stroke-width="0.5"/>
-</g>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M80.013 20.3232C88.667 20.3232 95.7029 27.347 95.7029 36.0009C95.7029 44.6549 88.667 51.6786 80.013 51.6786C71.359 51.6786 64.323 44.6549 64.323 36.0009C64.323 27.347 71.359 20.3232 80.013 20.3232Z" fill="white"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M71.9592 31.1834H78.408V27.959H71.9592V31.1834Z" fill="black"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M81.6183 31.1834H88.067V27.959H81.6183V31.1834Z" fill="black"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M88.067 37.6182H84.8427V40.8425H81.6183V44.0669H88.067V37.6182Z" fill="black"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M78.408 44.0669V40.8425H75.1836V37.6182H71.9592V44.0669H78.408Z" fill="black"/>
-<defs>
-<filter id="filter0_b_4612_2888" x="-4" y="-4" width="168" height="80.001" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feGaussianBlur in="BackgroundImage" stdDeviation="2"/>
-<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_4612_2888"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_4612_2888" result="shape"/>
-</filter>
-<linearGradient id="paint0_linear_4612_2888" x1="80" y1="0" x2="80" y2="72.771" gradientUnits="userSpaceOnUse">
-<stop stop-color="#101011"/>
-<stop offset="0.623266" stop-color="#101011" stop-opacity="0.267357"/>
-<stop offset="1" stop-color="#101011" stop-opacity="0"/>
-</linearGradient>
-<linearGradient id="paint1_linear_4612_2888" x1="80" y1="0" x2="80" y2="72.0013" gradientUnits="userSpaceOnUse">
-<stop stop-color="#632BFF"/>
-<stop offset="1" stop-opacity="0"/>
-</linearGradient>
-</defs>
+<svg width="160" height="72" viewBox="0 0 160 72" fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M80.013 20.3232C88.667 20.3232 95.7029 27.347 95.7029 36.0009C95.7029 44.6549 88.667 51.6786 80.013 51.6786C71.359 51.6786 64.323 44.6549 64.323 36.0009C64.323 27.347 71.359 20.3232 80.013 20.3232Z" fill="white"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M71.9592 31.1834H78.408V27.959H71.9592V31.1834Z" fill="black"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M81.6183 31.1834H88.067V27.959H81.6183V31.1834Z" fill="black"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M88.067 37.6182H84.8427V40.8425H81.6183V44.0669H88.067V37.6182Z" fill="black"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M78.408 44.0669V40.8425H75.1836V37.6182H71.9592V44.0669H78.408Z" fill="black"/>
+    <defs>
+        <filter id="filter0_b_4612_2888" x="-4" y="-4" width="168" height="80.001" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feGaussianBlur in="BackgroundImage" stdDeviation="2"/>
+            <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_4612_2888"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_4612_2888" result="shape"/>
+        </filter>
+        <linearGradient id="paint0_linear_4612_2888" x1="80" y1="0" x2="80" y2="72.771" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#101011"/>
+            <stop offset="0.623266" stop-color="#101011" stop-opacity="0.267357"/>
+            <stop offset="1" stop-color="#101011" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint1_linear_4612_2888" x1="80" y1="0" x2="80" y2="72.0013" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#632BFF"/>
+            <stop offset="1" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
 </svg>
